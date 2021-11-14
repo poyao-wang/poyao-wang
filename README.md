@@ -8,4 +8,4 @@ I speak English, Chinese, and Japanese, and I can make multi-language UI.
 
 I’m highly interested in programming, and also looking forward to enter the IT industry. 
 
-Visit [poyao.wang](https://poyao.wang/), my personal site and learn more about me.
+Visit [poyao.wang](https://poyao.wang/), my personal site to learn more about me.
